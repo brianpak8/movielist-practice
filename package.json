@@ -1,0 +1,27 @@
+{
+  "name": "movielist",
+  "version": "1.0.0",
+  "description": "movielist fullstack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianpak8/movielist-practice.git"
+  },
+  "author": "brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianpak8/movielist-practice/issues"
+  },
+  "homepage": "https://github.com/brianpak8/movielist-practice#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "webpack": "^3.8.1"
+  }
+}
